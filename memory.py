@@ -1,6 +1,4 @@
-# v3 
-
-# this code is for the game Memory
+# This code is for the game Memory
 
 import pygame, random, time
 
